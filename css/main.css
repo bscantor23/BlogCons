@@ -23,8 +23,8 @@ body {
 
 .homepage-bg {
     background-color: #fff;
-    background-size: auto;
-    background-repeat: no-repeat, repeat;
+    background-size: contain;
+    background-repeat: no-repeat;
 }
 
 ul li a {

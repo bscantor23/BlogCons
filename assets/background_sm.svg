@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="301.134" height="438.69" viewBox="0 0 301.134 438.69" preserveAspectRatio="none">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-3, .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-5 {
+        font-size: 81px;
+        font-family: Roboto-Bold, Roboto;
+        font-weight: 700;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="-0.027" y1="1.457" x2="0.991" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#053485"/>
+      <stop offset="1" stop-color="#57658f"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="-1.454" y1="1.759" x2="1.15" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#053485"/>
+      <stop offset="1" stop-color="#010a26"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.623" y1="-0.201" x2="0.344" y2="1.69" xlink:href="#linear-gradient-2"/>
+  </defs>
+  <g id="Group_24" data-name="Group 24" transform="translate(0 -49.31)">
+    <g id="Group_23" data-name="Group 23" transform="translate(0.147 -0.69)">
+      <path id="Path_4" data-name="Path 4" class="cls-1" d="M299.589,1247.389s-71.328,40.029-98.1-19.183-62.41-23.3-84.962,0c-62.127,64.2-38.606-107.847-117.3-16.728V856.363H300.361v80.3Z" transform="translate(0.625 -806.363)"/>
+      <path id="Path_53" data-name="Path 53" class="cls-2" d="M71.406,63.321c5.779-25.985,71.406-4.4,71.406,31.656s28.343,88.578-11.093,88.578S0,131.038,0,94.977,65.627,89.306,71.406,63.321Z" transform="translate(73.665 19.895)"/>
+      <path id="Path_7" data-name="Path 7" class="cls-3" d="M886.178,858s9.946,69,95.319,51.279,100.293,36.334,100.293,36.334V858Z" transform="translate(-781.791 -808)"/>
+      <circle id="Ellipse_6" data-name="Ellipse 6" class="cls-4" cx="20.714" cy="20.714" r="20.714" transform="translate(75.571 358.135)"/>
+      <circle id="Ellipse_11" data-name="Ellipse 11" class="cls-4" cx="25.436" cy="25.436" r="25.436" transform="translate(141 428.817)"/>
+      <circle id="Ellipse_6-2" data-name="Ellipse 6" class="cls-4" cx="25.436" cy="25.436" r="25.436" transform="translate(13.215 437.817)"/>
+      <path id="Path_3" data-name="Path 3" class="cls-2" d="M29.921,0A29.921,29.921,0,1,1,0,29.921,29.921,29.921,0,0,1,29.921,0Z" transform="translate(219.642 334.322)"/>
+      <text id="_" data-name="?" class="cls-5" transform="matrix(0.921, 0.391, -0.391, 0.921, 222.689, 363.684)"><tspan x="0" y="0">?</tspan></text>
+    </g>
+  </g>
+</svg>
