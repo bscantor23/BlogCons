@@ -199,6 +199,7 @@ ul li a:hover::after {
 
 .info_publication p {
     font-size: 14px !important;
+    text-align: start;
 }
 
 .dropdown-item:focus, .dropdown-item:hover {
