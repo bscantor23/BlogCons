@@ -1,6 +1,41 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="800" height="438.69" viewBox="0 0 800 438.69" preserveAspectRatio="none">
   <defs>
     <style>
+
+    .shape {
+        cy: 10;
+        animation: moveCircle 4000ms ease-in-out both infinite;
+      }
+
+      @keyframes moveCircle {
+        50% {
+          cy: -60;
+        }
+      }
+
+      .shape:nth-child(2){
+        animation-delay: 100ms;
+      }
+
+      .shape:nth-child(3){
+        animation-delay: 300ms;
+      }
+
+      .shape:nth-child(4){
+        animation-delay: 500ms;
+      }
+      .shape:nth-child(5){
+        animation-delay: 900ms;
+      }
+
+      .shape:nth-child(6){
+        animation-delay: 800ms;
+      }
+
+      .shape:nth-child(7){
+        animation-delay: 1200ms;
+      }
+      
       .cls-1 {
         fill: url(#linear-gradient);
       }
@@ -38,13 +73,13 @@
       <path id="Path_4" data-name="Path 4" class="cls-1" d="M797.175,1247.389s-189.49,40.029-260.61-19.183-165.8-23.3-225.711,0c-165.047,64.2-102.562-107.847-311.626-16.728V856.363h800v80.3Z" transform="translate(0.773 -856.363)"/>
       <path id="Path_53" data-name="Path 53" class="cls-2" d="M71.406,63.321c5.779-25.985,71.406-4.4,71.406,31.656s28.343,88.578-11.093,88.578S0,131.038,0,94.977,65.627,89.306,71.406,63.321Z" transform="translate(523.812 -30.105)"/>
       <path id="Path_7" data-name="Path 7" class="cls-3" d="M886.178,858s9.946,69,95.319,51.279,100.293,36.334,100.293,36.334V858Z" transform="translate(-282.778 -858)"/>
-      <circle id="Ellipse_6" data-name="Ellipse 6" class="cls-4" cx="49.968" cy="49.968" r="49.968" transform="translate(181.912 304.318)"/>
-      <circle id="Ellipse_11" data-name="Ellipse 11" class="cls-4" cx="25.436" cy="25.436" r="25.436" transform="translate(422.507 378.817)"/>
-      <circle id="Ellipse_6-2" data-name="Ellipse 6" class="cls-4" cx="25.436" cy="25.436" r="25.436" transform="translate(13.362 387.817)"/>
+      <circle id="Ellipse_6" data-name="Ellipse 6" class="cls-4 shape" cx="49.968" cy="49.968" r="49.968" transform="translate(181.912 304.318)"/>
+      <circle id="Ellipse_11" data-name="Ellipse 11" class="cls-4 shape" cx="25.436" cy="25.436" r="25.436" transform="translate(422.507 378.817)"/>
+      <circle id="Ellipse_6-2" data-name="Ellipse 6" class="cls-4 shape" cx="25.436" cy="25.436" r="25.436" transform="translate(13.362 387.817)"/>
       <path id="Path_3" data-name="Path 3" class="cls-2" d="M29.921,0A29.921,29.921,0,1,1,0,29.921,29.921,29.921,0,0,1,29.921,0Z" transform="translate(718.655 284.322)"/>
       <text id="_" data-name="?" class="cls-5" transform="matrix(0.921, 0.391, -0.391, 0.921, 721.702, 313.684)"><tspan x="0" y="0">?</tspan></text>
-      <circle id="Ellipse_12" data-name="Ellipse 12" class="cls-4" cx="37.436" cy="37.436" r="37.436" transform="translate(589.362 349.564)"/>
-      <circle id="Ellipse_13" data-name="Ellipse 13" class="cls-4" cx="49.968" cy="49.968" r="49.968" transform="translate(53.912 103.484)"/>
+      <circle id="Ellipse_12" data-name="Ellipse 12" class="cls-4 shape" cx="37.436" cy="37.436" r="37.436" transform="translate(589.362 349.564)"/>
+      <circle id="Ellipse_13" data-name="Ellipse 13" class="cls-4 shape" cx="49.968" cy="49.968" r="49.968" transform="translate(53.912 103.484)"/>
     </g>
   </g>
 </svg>
